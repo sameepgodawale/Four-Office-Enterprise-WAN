@@ -339,7 +339,7 @@ This stops RIP updates from being sent to end devices while still accepting rout
 
 Clone or download the repository:
 ```bash
-git clone https://github.com/<username>/Cisco-Packet-Tracer-WAN-Ring.git
+https://github.com/sameepgodawale/Four-Office-Enterprise-WAN.git
 ```
 Or download the ZIP and extract it.
 
