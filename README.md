@@ -1,4 +1,4 @@
-# Cisco Packet Tracer — WAN Ring Topology with 4 LANs
+# Four-Office Enterprise WAN
 
 > A fully simulated Wide Area Network connecting four regional offices in a **ring topology** using **RIPv2 dynamic routing**, with HTTP/DNS services hosted in LAN 1, wireless access in each office, and end-to-end reachability verified through a browser-based web test.
 
@@ -43,16 +43,16 @@ Based on the topology, technologies, and purpose of the project, here are recomm
 
 | # | Name | Style |
 |---|------|-------|
-| 1 | **WAN Ring with 4 LANs** | Descriptive (current) |
+| 1 | **Four-Office Enterprise WAN** ✅ *(chosen)* | Business-oriented |
 | 2 | **RIPv2 Ring WAN Simulation** | Protocol-focused |
-| 3 | **Four-Office Enterprise WAN** | Business-oriented |
+| 3 | **WAN Ring with 4 LANs** | Descriptive |
 | 4 | **Ring-Redundant Multi-Site Network** | Technical/formal |
 | 5 | **Cisco PT: Multi-Branch WAN with DNS & HTTP** | Feature-complete title |
 | 6 | **RIPv2 Hub-Ring Interconnect Lab** | Lab/academic |
 | 7 | **Distributed LAN Ring Backbone** | Architecture-focused |
 | 8 | **PacketTracer WAN Ring — Branch Connectivity Lab** | Tool + purpose |
 
-**Recommended:** *RIPv2 Ring WAN Simulation* — concise, accurate, and immediately communicates both the routing protocol and the topology shape.
+**Chosen:** *Four-Office Enterprise WAN* — business-oriented, clearly conveys the scale (four offices) and the enterprise-grade nature of the design.
 
 ---
 
@@ -339,7 +339,7 @@ This stops RIP updates from being sent to end devices while still accepting rout
 
 Clone or download the repository:
 ```bash
-https://github.com/sameepgodawale/Four-Office-Enterprise-WAN.git
+git clone https://github.com/sameepgodawale/Four-Office-Enterprise-WAN.git
 ```
 Or download the ZIP and extract it.
 
@@ -430,8 +430,6 @@ This project is designed to teach and demonstrate the following networking conce
 
 ---
 
-
-```
 
 ---
 
